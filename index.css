@@ -1,0 +1,39 @@
+body {
+    background-color: lightgrey;
+    margin: auto;
+    margin-top: 225px;
+}
+
+#container {
+    width: 100px;
+    margin: auto;
+}
+
+h1 {
+    color: black;
+    font-family: cursive;
+    text-align: center;
+}
+
+#number {
+    color: black;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+#increment {
+    background-color: lightcoral;
+    color: black;
+    width: 100px;
+    margin: auto;
+    display: block;
+}
+
+#decrement {
+    background-color: lightcoral;
+    color: black;
+    width: 100px;
+    margin: auto;
+    display: block;
+}
